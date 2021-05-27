@@ -27,54 +27,17 @@ function solution(numbers, hand) {
               rightHand = [i, j];
               return 'R';
             } else if (touchPad[i][j] === 'M') {
-              const TDLR = [
-                [i - 1, j],
-                [i + 1, j],
-                [i, j - 1],
-                [i, j + 1],
-              ];
-              const leftCheck = TDLR.filter(
-                (el) => el.toString() == leftHand.toString()
-              );
-              const rightCheck = TDLR.filter(
-                (el) => el.toString() == rightHand.toString()
-              );
-              // num이 왼쪽 상하좌우에 속한다면
-              if (leftCheck.length > rightCheck.length) {
+              let leftDistance =
+                Math.abs(leftHand[0] - i) + Math.abs(leftHand[1] - j);
+              let rightDistance =
+                Math.abs(rightHand[0] - i) + Math.abs(rightHand[1] - j);
+              if (leftDistance < rightDistance) {
                 leftHand = [i, j];
                 return 'L';
-                //  nums이 오른쪽 상하좌우에 속한다면
-              } else if (leftCheck.length < rightCheck.length) {
+              } else if (leftDistance > rightDistance) {
                 rightHand = [i, j];
                 return 'R';
-                // nums가 상하좌우 모두에 안 속한다면
-              } else if (
-                leftCheck.length === rightCheck.length &&
-                leftCheck.length === 0
-              ) {
-                // 행을 기준으로 가까운 쪽에 속함
-                if (Math.abs(i - leftHand[0]) < Math.abs(i - rightHand[0])) {
-                  leftHand = [i, j];
-                  return 'L';
-                } else if (
-                  Math.abs(i - leftHand[0]) > Math.abs(i - rightHand[0])
-                ) {
-                  rightHand = [i, j];
-                  return 'R';
-                } else if (
-                  // 행이 같다면 hand로 정함
-                  Math.abs(i - leftHand[0]) === Math.abs(i - rightHand[0])
-                ) {
-                  if (hand === 'left') {
-                    leftHand = [i, j];
-                    return 'L';
-                  } else if (hand === 'right') {
-                    rightHand = [i, j];
-                    return 'R';
-                  }
-                }
-                // nums가 상하좌우 모두에 속한다면 hand로 정함
-              } else if (leftCheck.length === rightCheck.length) {
+              } else if (leftDistance === rightDistance) {
                 if (hand === 'left') {
                   leftHand = [i, j];
                   return 'L';
@@ -89,7 +52,7 @@ function solution(numbers, hand) {
       }
     })
     .reduce((sum, el) => (sum = sum + el));
-    
+
   return answer;
 }
 
