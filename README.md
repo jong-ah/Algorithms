@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
 
+- 프로그래머스 레벨1 제일 작은 수 제거하기
 - 프로그래머스 레벨1 콜라츠 추측
 - 프로그래머스 레벨1 하샤드 수
 - 프로그래머스 레벨1 핸드폰 번호 가리기
