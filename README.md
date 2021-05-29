@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
 
+- 프로그래머스 레벨1 같은 숫자는 싫어
 - 프로그래머스 레벨1 실패율
 - 프로그래머스 레벨1 키패드 누르기
 - 프로그래머스 레벨1 로또의 최고 순위와 최저 순위
