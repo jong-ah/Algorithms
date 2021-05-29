@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
 
+- 프로그래머스 레벨1 하샤드 수
 - 프로그래머스 레벨1 핸드폰 번호 가리기
 - 프로그래머스 레벨1 x만큼 간격이 있는 n개의 숫자
 - 프로그래머스 레벨1 직사각형 별찍기
