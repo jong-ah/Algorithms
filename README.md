@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
 
+- 프로그래머스 레벨1 행렬의 덧셈
 - 프로그래머스 레벨1 최대공약수와 최소공배수  
 - 프로그래머스 레벨1 짝수와 홀수
 - 프로그래머스 레벨1 평균 구하기
