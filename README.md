@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
 
+- 프로그래머스 레벨1 이상한 문자 만들기
 - 프로그래머스 레벨1 자릿수 더하기
 - 프로그래머스 레벨1 자연수 뒤집어 배열로 만들기
 - 프로그래머스 레벨1 K번째수
