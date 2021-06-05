@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
 
+- 프로그래머스 레벨1 두 개 뽑아서 더하기
 - 프로그래머스 레벨1 약수의 개수와 덧셈
 - 프로그래머스 레벨1 소수 찾기
 - 프로그래머스 레벨1 2016년
