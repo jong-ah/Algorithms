@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
 
+- 프로그래머스 레벨1 [1차] 다트게임
 - 프로그래머스 레벨1 [1차] 비밀지도
 - 프로그래머스 레벨1 3진법 뒤집기
 - 프로그래머스 레벨1 시저암호
