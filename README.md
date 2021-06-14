@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
 
+- 프로그래머스 레벨2 다음 큰 숫자
 - 프로그래머스 레벨1 모의고사
 - 프로그래머스 레벨1 신규 아이디 추천
 - 프로그래머스 레벨1 [1차] 다트게임
