@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
 
+- 프로그래머스 레벨2 피보나치 수
 - 프로그래머스 레벨2 N개의 최소공배수
 - 프로그래머스 레벨2 JadenCase 문자열 만들기
 - 프로그래머스 레벨2 최솟값 만들기
