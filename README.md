@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
  
+- 프로그래머스 레벨3 섬 연결하기
 - 프로그래머스 레벨3 단어 변환
 - 프로그래머스 레벨3 네트워크 
 - 프로그래머스 레벨2 행렬의 곱셈
