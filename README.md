@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
  
+- 프로그래머스 레벨3 이중우선순위큐 
 - 프로그래머스 레벨2 큰 수 만들기
 - 프로그래머스 레벨3 섬 연결하기
 - 프로그래머스 레벨3 단어 변환
