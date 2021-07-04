@@ -1,6 +1,6 @@
 'use strict';
 
-// * https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript
+// * https://www.acmicpc.net/problem/5525
 // 백준 해시 문제 모음 https://www.acmicpc.net/workbook/view/201
 // 백준 해시맵 문제 모음 https://www.acmicpc.net/problemset?sort=ac_desc&algo=136
 
