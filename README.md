@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
  
+- 백준 5525번 IOIOI
 - 프로그래머스 레벨2 위장
 - 프로그래머스 레벨3 베스트앨범 
 - 백준 18870번 좌표압축
