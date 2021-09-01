@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
  
+- 프로그래머스 레벨1 4주차 직업군 추천하기
 - 프로그래머스 레벨2 영어 끝말잇기
 - 프로그래머스 레벨2 소수찾기
 - 프로그래머스 레벨2 카펫
