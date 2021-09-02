@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
  
+- 숫자 문자열과 영단어
 - 프로그래머스 레벨1 1주차 부족한 금액 계산하기
 - 프로그래머스 레벨1 4주차 직업군 추천하기
 - 프로그래머스 레벨2 영어 끝말잇기
