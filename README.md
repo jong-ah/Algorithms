@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
 
+- 프로그래머스 레벨2 짝지어 제거하기
 - 프로그래머스 레벨2 이진 변환 반복하기
 - 프로그래머스 레벨2 올바른 괄호
 - 프로그래머스 레벨2 124 나라의 숫자
