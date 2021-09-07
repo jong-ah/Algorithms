@@ -6,7 +6,8 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 <br/>
 
 ## 진행정도 (최신순)  
- 
+
+- 프로그래머스 레벨2 올바른 괄호
 - 프로그래머스 레벨2 124 나라의 숫자
 - 프로그래머스 레벨2 구명보트 
 - 프로그래머스 레벨2 땅따먹기
