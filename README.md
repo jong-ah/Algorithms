@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
 
+- 프로그래머스 레벨2 프린터
 - 프로그래머스 레벨2 모음사전
 - 프로그래머스 레벨2 N진수 게임
 - 프로그래머스 레벨2 짝지어 제거하기
