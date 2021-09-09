@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
 
+- 프로그래머스 레벨2 괄호 변환
 - 프로그래머스 레벨2 멀쩡한 사각형
 - 프로그래머스 레벨2 오픈채팅방
 - 프로그래머스 레벨2 문자열 압축
