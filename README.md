@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
 
+- 프로그래머스 레벨2 가장 큰 정사각형 찾기
 - 프로그래머스 레벨2 수식 최대화
 - 프로그래머스 레벨2 파일명 정렬
 - 프로그래머스 레벨2 조이스틱
