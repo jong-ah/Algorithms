@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
 
+- 프로그래머스 레벨2 타겟 넘버
 - 프로그래머스 레벨2 예상 대진표
 - 프로그래머스 레벨2 삼각 달팽이
 - 프로그래머스 레벨2 방금그곡
