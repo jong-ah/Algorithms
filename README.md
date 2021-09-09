@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
 
+- 프로그래머스 레벨2 메뉴 리뉴얼
 - 프로그래머스 레벨2 순위 검색
 - 프로그래머스 레벨2 기능개발
 - 프로그래머스 레벨2 쿼드압축 후 개수 세기
