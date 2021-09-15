@@ -7,6 +7,9 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
 
+- 코드스테이츠 토이문제49 BellmanFord
+- 프로그래머스 레벨2 뉴스 클러스터링
+- 코드스테이츠 토이문제50 findAbbreviation
 - 프로그래머스 레벨1 없는 숫자 더하기
 - 프로그래머스 레벨2 괄호 변환
 - 프로그래머스 레벨2 멀쩡한 사각형
