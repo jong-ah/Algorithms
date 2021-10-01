@@ -7,6 +7,8 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
 
+- 코드스테이츠 토이문제46 0-1Knapsack
+- 프로그래머스 레벨2 캐시
 - 프로그래머스 레벨2 튜플
 - 코드스테이츠 토이문제47 Dijkstra
 - 코드스테이츠 토이문제48 FloydWarshall 
