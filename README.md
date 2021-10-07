@@ -7,6 +7,8 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
 
+- 프로그래머스 레벨2 배달
+- 프로그래머스 레벨2 게임맵최단거리
 - 프로그래머스 레벨2 점프와순간이동
 - 프로그래머스 레벨2 방문길이
 - 코드스테이츠 토이문제46 0-1Knapsack
