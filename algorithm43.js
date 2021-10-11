@@ -4,7 +4,7 @@
 // 프로그래머스 레벨1 예산
 // input으로 부서별로 신청한 금액이 들어있는 배열, 예산을 받는다.
 // output으로 물품을 지원받을 수 있는 부서의 최대 수 number를 출력한다.  
-// 시간복잡도 sort는 O(NlogN), while은 최대 O(N) N:d.length => O(NlogN + N)
+// 시간복잡도 sort는 O(NlogN), while은 최대 O(N) N:d.length 이므로 영향이 높은 while 시간복잡도를 나타내므로 O(N)이다. 
 // 개선점은 기본적으로 sort는 써야할 것 같고, while을 for문, forEach, map을 활용하여 풀 수도 있지만 문제가 어렵지 않고, 코드 이해가 쉽기 때문에 개선점은 없어 보인다. 
 
 function solution(d, budget) {
