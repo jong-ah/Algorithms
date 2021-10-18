@@ -7,6 +7,7 @@ https://medium.com/jongah-tech-blog/tagged/algorithms
 
 ## 진행정도 (최신순)  
 
+- 프로그래머스 레벨1 나머지가 1이 되는 수 찾기 
 - 프로그래머스 레벨2 후보키
 - 프로그래머스 레빌1 최소직사각형
 - 프로그래머스 레벨2 압축
